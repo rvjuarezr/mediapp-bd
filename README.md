@@ -24,3 +24,13 @@ Rol (idRol, nombre)
 UsuarioRol (idUsuario, idRol)
 
 Usuario (idUsuario, nombre, clave, estado)
+
+COMO ESTA ESTRUCTURADO LA BD PARA QUE TE FUNCIONE CORRECTAMENTE
+UNIDAD C:
+- +CARPETA Spring Boot
+- ++CARPETA FullStack
+- +++CARPETA BD
+- ++++PROYECTO mediapp-bd
+
+PUEDE UNIRTE AL FORO DE FULL STACK DE NUESTRA COMUNIDAD DE TELEGRAM
+https://t.me/SpringBootFtJAVA
